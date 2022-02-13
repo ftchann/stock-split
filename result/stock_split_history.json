@@ -1,0 +1,30 @@
+[
+    {
+        "ticker": "AAPL",
+        "splits": []
+    },
+    {
+        "ticker": "AMZN",
+        "splits": []
+    },
+    {
+        "ticker": "FB",
+        "splits": []
+    },
+    {
+        "ticker": "GOOG",
+        "splits": []
+    },
+    {
+        "ticker": "MSFT",
+        "splits": []
+    },
+    {
+        "ticker": "NFLX",
+        "splits": []
+    },
+    {
+        "ticker": "TSLA",
+        "splits": []
+    }
+]
