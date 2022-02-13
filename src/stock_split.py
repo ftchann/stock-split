@@ -61,7 +61,7 @@ def get_all_stock_split_histories(tickers):
 
 
 if __name__ == '__main__':
-    tickers = ["AAPL", "AMZN", "FB", "GOOG", "MSFT", "NFLX", "TSLA"]
+    tickers = tickers.get_tickers()
     history = get_all_stock_split_histories(tickers)
     print("hello")
     with open('result/stock_split_history.json', 'w') as f:
